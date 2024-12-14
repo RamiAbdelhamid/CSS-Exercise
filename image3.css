@@ -1,0 +1,73 @@
+p1{
+    font-size: 35px;
+    font-weight: bold;
+  color: rgb(0, 0, 0);
+    text-decoration: underline;}
+    hr {
+        border: none;
+        border-top: 1px solid #000;
+        margin: 10px 0 20px;
+        width: 700px;
+    }
+
+a{ color: orange;}
+
+    p2{
+display: block;
+  
+ margin-bottom: 30px;
+
+
+   color: blue;
+    }
+ p3{
+    display: block;
+
+    margin-bottom: 30px
+    ;
+ }
+
+
+ a4{
+
+text-decoration: underline;
+    background-color: yellow;
+ }
+
+
+
+ a5{
+    text-decoration: underline;
+    font-weight: bold;
+    color: red;
+ }
+
+ li{
+
+font-weight: bold;
+
+}
+
+
+div{
+    color: blue;
+}
+
+a6{
+    color: red;
+    text-decoration: underline;
+}
+
+span{
+
+    font-weight: bold;
+}
+
+
+
+a7{
+
+    color: red;
+
+    text-decoration: underline;
+}
